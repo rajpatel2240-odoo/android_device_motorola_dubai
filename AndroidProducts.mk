@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_dubai.mk
+    $(LOCAL_DIR)/evolution_dubai.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_dubai-user \
-    lineage_dubai-userdebug \
-    lineage_dubai-eng
+    evolution_dubai-user \
+    evolution_dubai-userdebug \
+    evolution_dubai-eng
