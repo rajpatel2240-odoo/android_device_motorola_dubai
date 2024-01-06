@@ -27,3 +27,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="dubai_g-user 13 T1RD33.116-33-13 441420-2d5de8 release-keys"
 
 BUILD_FINGERPRINT := motorola/dubai_g/dubai:13/T1RD33.116-33-13/441420-2d5de8:user/release-keys
+
+# Matrixx Flags
+TARGET_HAS_UDFPS := true
+WITH_GMS := true
+BUILD_GOOGLE_CONTACTS := true
+BUILD_GOOGLE_MESSAGE := true
